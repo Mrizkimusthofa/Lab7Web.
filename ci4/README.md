@@ -1,60 +1,23 @@
-# CodeIgniter 4 Framework
+Praktikum 1:
+1. Membuat folder lab11_ci dan mengektrak folder yang didownload codegnifer 4 menjadi ci4.
+![image](https://github.com/user-attachments/assets/6cc3928e-6312-4ef8-a945-4d9f92d29be7)
+![image](https://github.com/user-attachments/assets/354198ee-3fcc-4d82-899a-37ec0669a772)
+![image](https://github.com/user-attachments/assets/ec9954cf-3af9-4612-ae8b-9360ce78d3de)
+![image](https://github.com/user-attachments/assets/963fe68d-9ad5-498a-a37c-d4047964609d)
 
-## What is CodeIgniter?
+2. Menjalankan apache pada xampp dan buka terminal/shell dalam xampp untuk melakukan debugging pada folder/file yang dijalankan.
+![image](https://github.com/user-attachments/assets/526b3e7d-eca6-4083-832b-e85179690618)
+![image](https://github.com/user-attachments/assets/93f99aba-aede-428d-a2bf-d7f67e123a74)
+![image](https://github.com/user-attachments/assets/467b0a7d-5b06-4d7d-8737-7810a529d52a)
 
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
-More information can be found at the [official site](https://codeigniter.com).
+3. Membuat dan menambahkan file header & footer dalam folder template yang kita buat dan menambahkan beberapa kodingan dalam file about.
+![image](https://github.com/user-attachments/assets/7821a6cc-4826-4042-87a5-c9d0fd8b2897)
+![image](https://github.com/user-attachments/assets/6eee0b92-a153-457c-90f6-9b6ea7ec3675)
+![image](https://github.com/user-attachments/assets/abcf7548-092f-46dc-9ebe-c7fe5dc74e16)
+![image](https://github.com/user-attachments/assets/594bcee0-bc67-4157-9366-1483b2a0ae4d)
 
-This repository holds the distributable version of the framework.
-It has been built from the
-[development repository](https://github.com/codeigniter4/CodeIgniter4).
 
-More information about the plans for version 4 can be found in [CodeIgniter 4](https://forum.codeigniter.com/forumdisplay.php?fid=28) on the forums.
+Hasil melakukan semua praktikum modul 1.
+![Screenshot 2025-05-01 153946](https://github.com/user-attachments/assets/40d054f6-e99e-4791-9f6a-dead43a651e9)
 
-You can read the [user guide](https://codeigniter.com/user_guide/)
-corresponding to the latest version of the framework.
-
-## Important Change with index.php
-
-`index.php` is no longer in the root of the project! It has been moved inside the *public* folder,
-for better security and separation of components.
-
-This means that you should configure your web server to "point" to your project's *public* folder, and
-not to the project root. A better practice would be to configure a virtual host to point there. A poor practice would be to point your web server to the project root and expect to enter *public/...*, as the rest of your logic and the
-framework are exposed.
-
-**Please** read the user guide for a better explanation of how CI4 works!
-
-## Repository Management
-
-We use GitHub issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages.
-We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss
-FEATURE REQUESTS.
-
-This repository is a "distribution" one, built by our release preparation script.
-Problems with it can be raised on our forum, or as issues in the main repository.
-
-## Contributing
-
-We welcome contributions from the community.
-
-Please read the [*Contributing to CodeIgniter*](https://github.com/codeigniter4/CodeIgniter4/blob/develop/CONTRIBUTING.md) section in the development repository.
-
-## Server Requirements
-
-PHP version 8.1 or higher is required, with the following extensions installed:
-
-- [intl](http://php.net/manual/en/intl.requirements.php)
-- [mbstring](http://php.net/manual/en/mbstring.installation.php)
-
-> [!WARNING]
-> - The end of life date for PHP 7.4 was November 28, 2022.
-> - The end of life date for PHP 8.0 was November 26, 2023.
-> - If you are still using PHP 7.4 or 8.0, you should upgrade immediately.
-> - The end of life date for PHP 8.1 will be December 31, 2025.
-
-Additionally, make sure that the following extensions are enabled in your PHP:
-
-- json (enabled by default - don't turn it off)
-- [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
-- [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+Praktikum 2:
