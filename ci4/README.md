@@ -28,6 +28,11 @@ Praktikum 2:
 1. Membuat Aplikasi CRUD sederhana dengan mengaktifkan mysql pada xampp.
    ![image](https://github.com/user-attachments/assets/8af49031-1208-4864-8acf-1d66d51acbf6)
 
-2. Membuat Database pada localhost phpmyadmin
+2. Membuat Database pada localhost phpmyadmin.
    ![image](https://github.com/user-attachments/assets/c49aa20c-5bbe-4590-b84a-92635d5259f9)
-3. 
+
+3. Melakukan debugging pada CLI xampp untuk mengecek apakah ada kesalahan pada saat menambahkan code.
+   ![image](https://github.com/user-attachments/assets/082496d6-66f9-4c62-85bc-524033f1c42e)
+
+4. 
+
